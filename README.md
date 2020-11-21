@@ -1,2 +1,2 @@
 # Pandas-Platzi
-Repositorio del curso de Manipulación y Análisis de datos con Pandas de Platzi
+Repositorio dede Manipulación y Análisis de datos con Pandas
